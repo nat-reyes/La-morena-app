@@ -1,0 +1,49 @@
+
+A
+java:S1172š"+Remove this unused method parameter "view".(â‹ÒX
+n
+java:S1450+"SRemove the "user" field and declare it as a local variable in the relevant methods.(š·àŽûÿÿÿÿ
+C
+java:S1481Ž"-Remove this unused "userName" local variable.(å‚‘w
+V
+java:S1854Œ":Remove this useless assignment to local variable "userId".(à¤ÿ¦ûÿÿÿÿ
+I
+java:S1144~".Remove this unused private "setHeader" method.(Ë¯ü²üÿÿÿÿ
+R	java:S125†"<This block of commented-out lines of code should be removed.(¥í§ã
+9
+java:S1659'"#Declare "email" on a separate line.(™ ô†
+G
+java:S1172Ÿ"+Remove this unused method parameter "view".(˜¨žÙûÿÿÿÿ
+M
+java:S1481"1Remove this unused "userPhotoUrl" local variable.(¨Å¨Ùýÿÿÿÿ
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(‡ë‡ûÿÿÿÿ
+Q	java:S125‘"<This block of commented-out lines of code should be removed.(¬ßï^
+F
+java:S1659'"0Declare "identificationCard" on a separate line.(™ ô†
+\
+java:S1854"@Remove this useless assignment to local variable "userPhotoUrl".(¨Å¨Ùýÿÿÿÿ
+?
+java:S1659'")Declare "phoneNumber" on a separate line.(™ ô†
+B
+java:S1172”"+Remove this unused method parameter "view".(½Õîµ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Ò
+Y
+java:S1854"=Remove this useless assignment to local variable "userEmail".(Þã¶­øÿÿÿÿ
+J
+java:S1481".Remove this unused "userEmail" local variable.(Þã¶­øÿÿÿÿ
+B
+java:S1172¥"+Remove this unused method parameter "view".(ˆ°íê
+G
+java:S1481Œ"+Remove this unused "userId" local variable.(à¤ÿ¦ûÿÿÿÿ
+<
+java:S1659'"&Declare "lastname" on a separate line.(™ ô†
+C
+java:S1068+"(Remove this unused "user" private field.(š·àŽûÿÿÿÿ
+G
+java:S1172«"+Remove this unused method parameter "view".(‘ÇÎúÿÿÿÿ
+G
+java:S1172‹"0Remove this unused method parameter "userPhoto".(é¢™Ú
+R
+java:S1854Ž"<Remove this useless assignment to local variable "userName".(å‚‘w
+_
+java:S1192Ž"IDefine a constant instead of duplicating this literal "userName" 3 times.(å‚‘w

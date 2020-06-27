@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="aseguradora">Aseguradora</string>
+    <string name="service">Servicio</string>
+
+    <string name="empleado">Empleado</string>
+    <string name="app_name">La morena</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Natalia Reyes</string>
+    <string name="nav_header_subtitle">PREMIUM</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="lastname">Apellido</string>
+    <string name="rol">Cargo</string>
+    <string name="email">Correo</string>
+    <string name="validateEmail">Por favor ingresa un email valido</string>
+    <string name="password">Contraseña</string>
+    <string name="confirmPassword">Confirmar Contraseña</string>
+    <string name="validatePassword">Por favor ingresa una contraseña valida</string>
+    <string name="validateSamePasswords">Las contraseñas no coinciden</string>
+    <string name="validateField">Por favor completa el campo</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="noAccountYet">No tienes cuenta? Crea una</string>
+    <string name="accountYet">Ya tienes cuenta? Ingresa</string>
+
+    <string name="waitLogin">Iniciando sesión</string>
+    <string name="waitRegister">Creando cuenta</string>
+
+    <string name="accountMenu">Cuenta</string>
+    <string name="profile">Perfil</string>
+    <string name="ingreso">Vehiculo</string>
+    <string name="ingresoAdmin">Ingreso Vehiculo</string>
+    <string name="Description">Empleado</string>
+    <string name="purchases">Compras</string>
+    <string name="favorites">Favoritos</string>
+    <string name="categories">SERVICIOS</string>
+    <string name="offers">CONTACTANOS</string>
+    <string name="session">Sesión</string>
+    <string name="logout">Cerrar sesión</string>
+
+    <string name="register">Registrar</string>
+    <string name="update">Actualizar</string>
+    <string name="idCard">Cédula</string>
+    <string name="firstName">Nombres</string>
+    <string name="lastName">Apellidos</string>
+    <string name="birthDay">Cumpleaños</string>
+    <string name="gender">Genero</string>
+    <string name="phoneNumber">Teléfono</string>
+    <string name="address">Dirección</string>
+
+
+    <string name="registerEmployee">Registrar Empleado</string>
+    <string name="registerInsurer">Registrar aseguradora</string>
+    <string name="registerService">Registrar servicio</string>
+    <string name="readService">Ver servicio</string>
+    <string name="updateService">Actualizar servicio</string>
+    <string name="readEmployee">Ver empleados</string>
+    <string name="readInsurer">Ver aseguradora</string>
+    <string name="updateInsurer">Actualizar aseguradora</string>
+    <string name="updateEmployee">Actualizar empleado</string>
+    <string name="searchEmployee">Buscar empleado</string>
+    <string name="selectEmpployee">Seleccionar</string>
+    <string name="registerVehicle">Registrar vehiculo</string>
+    <string name="listIngresos">Listar Ingresos </string>
+
+
+
+
+    <string name="nameInsurer">Nombre Aseguradora</string>
+    <string name="telInsurer">Telefono Aseguradora</string>
+    <string name="car_select">Direccion</string>
+    <string name="searchInsurer">Buscar aseguradora </string>
+    <string name="searchService"> Buscar servicio </string>
+
+
+    <string name="nameService">Nombre Servicio</string>
+    <string name="idService"> Descripcion </string>
+    <string name="price_service"> Precio </string>
+    <string name="service_time"> Promedio de duracion </string>
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="hi">Hola</string>
+    <string name="errLogin">Usuario o contraseña invalido</string>
+    <string name="errConnect">No tienes conexión a internet</string>
+    <string name="errServer">No estamos en línea</string>
+    <string name="userRegistrationOk">Registro exitoso</string>
+    <string name="emailRegistered">Upss, Correo ya está en uso</string>
+    <string name="idCardRegistered">Upss, Cedula ya registrada</string>
+    <string name="errRegistry">Upss, No se pudo realizar el registro</string>
+
+    <string name="personalData">Información Personal</string>
+
+    <string name="writeName">Escribe tu nombre</string>
+    <string name="writeEmail">Escribe tu correo</string>
+    <string name="writePhone">Escribe tu teléfono</string>
+    <string name="writeID">Escribe tu cédula</string>
+    <string name="cancelButton">Cancelar</string>
+    <string name="saveButton">Guardar</string>
+    <string name="banner">banner</string>
+
+    <string name="hint_placa"> Placa </string>
+    <string name="car_name"> Numero carro </string>
+    <string name="texto"> Envia tu consulta </string>
+    <string name="mecanica"> mecanico </string>
+    <string name="enviar_sugerencia"> Enviar  </string>
+    <string name="hint_cargo"> Cargo  </string>
+
+
+    <string name="favNotification">Ahora es uno de tus productos favoritos</string>
+    <string name="favNotificationDelete">Se ha eliminado de tus favoritos</string>
+
+    <string name="cartTitle">Vehiculo</string>
+    <string name="order">Orden</string>
+    <string name="shipment">Envio</string>
+    <string name="payment">Pago</string>
+
+    <string name="facebook_app_id">237743414061472</string> <string name="fb_login_protocol_scheme">fb237743414061472</string>
+</resources>

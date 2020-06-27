@@ -1,0 +1,244 @@
+<resources>
+    <string name="aseguradora">Insurer</string>
+    <string name="empleado">Employee</string>
+    <string name="service">Service</string>
+
+    <string name="app_name">La Morena </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Aylin Natalia Reyes Vargas</string>
+    <string name="nav_header_subtitle">Ingenieria de sistemas ufps </string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="registerService">Register service</string>
+    <string name="registerVehicle">Register vehicle</string>
+    <string name="listIngresos">list Ingresos</string>
+
+
+    <string name="Description">Empleado</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="lastname">LastName</string>
+    <string name="rol">Cargo</string>
+    <string name="email">Email</string>
+    <string name="validateEmail">Please enter valid email address</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="validatePassword">Please enter valid password</string>
+    <string name="validateSamePasswords">Passwords do not match</string>
+    <string name="validateField">Please complete the field</string>
+    <string name="login">Login</string>
+    <string name="noAccountYet">No account yet? Create one</string>
+    <string name="accountYet">Alreay a member? Login</string>
+
+
+    <string name="waitLogin">Logging in</string>
+    <string name="waitRegister">Creating account</string>
+
+
+    <string name="accountMenu">Account</string>
+    <string name="profile">Perfil</string>
+    <string name="ingreso">Vehiculo</string>
+    <string name="ingresoAdmin">Ingreso Vehiculo</string>
+    <string name="purchases">Purchases</string>
+    <string name="favorites">Favorites</string>
+    <string name="categories">Categories</string>
+    <string name="offers">Offers</string>
+    <string name="session">Session</string>
+    <string name="logout">Salir</string>
+
+    <string name="register">Register</string>
+    <string name="update">Update</string>
+    <string name="searchEmployee">Search Employee</string>
+    <string name="selectEmpployee">Select</string>
+    <string name="idCard">Identification Card</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="birthDay">Birthday</string>
+    <string name="gender">Gender</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="address">Address</string>
+
+    <string name="registerEmployee">Register Employee</string>
+
+    <string name="readInsurer">See insurers</string>
+    <string name="updateInsurer">Update Insurers</string>
+    <string name="registerInsurer">Register Insurer</string>
+    <string name="readEmployee">See employees</string>
+    <string name="updateEmployee">Update employee</string>
+    <string name="readService">See service</string>
+    <string name="updateService">Update service</string>
+
+
+    <string name="nameInsurer">Name Insurer</string>
+    <string name="telInsurer">Tel Insurer</string>
+    <string name="car_select">Direccion</string>
+
+    <string name="nameService">Name service </string>
+    <string name="idService"> Descripcion</string>
+    <string name="price_service"> Price </string>
+    <string name="service_time"> Promedy Time </string>
+
+
+    <string name="hi">Hi</string>
+    <string name="errConnect">You do not have an internet connection</string>
+    <string name="errLogin">User or password invalid</string>
+    <string name="errServer">We are not online</string>
+    <string name="userRegistrationOk">Successful registration</string>
+    <string name="emailRegistered">Upss, Mail is already in use</string>
+    <string name="idCardRegistered">Upss, Id Card is already in use</string>
+    <string name="errRegistry">Upss, The registration could not be made</string>
+
+
+    <string name="personalData">Personal Data</string>
+
+    <string name="writeName">Write your name</string>
+    <string name="writeEmail">Write your email</string>
+    <string name="writePhone">Write your phone</string>
+    <string name="writeID">Write your identification card</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="saveButton">Save</string>
+
+    <string name="favNotification">It is now one of your favorite products</string>
+    <string name="favNotificationDelete">It has been removed from your favorites</string>
+    <string name="banner">banner</string>
+    <string name="cartTitle">Vehicle</string>
+    <string name="order">Order</string>
+    <string name="shipment">Shipment</string>
+    <string name="payment">Payment</string>
+
+    <string name="facebook_app_id">237743414061472</string>
+    <string name="fb_login_protocol_scheme">fb237743414061472</string>
+
+    <string name="hint_placa"> Plate </string>
+    <string name="car_name"> Car name </string>
+    <string name="texto"> Send your answer</string>
+    <string name="mecanica"> Mechanic </string>
+    <string name="enviar_sugerencia">Send </string>
+
+    <string name="hint_cargo"> Charge  </string>
+    <string name="searchInsurer">Buscar aseguradora </string>
+    <string name="searchService"> Buscar servicio </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string-array name="country_arrays">
+        <item> Toyota </item>
+        <item> Nisan</item>
+        <item> BMW </item>
+        <item>Ford</item>
+    </string-array>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_product_info">ProductInfoActivity</string>
+    <string name="vodka_text">
+        "Audaz, original, creativo. Absolut Vodka se lanzó en Nueva York en 1979."
+        "Nuestra botella transparente y sin etiqueta, inspirada en un frasco de"
+        "medicamentos del siglo XVIII, se destacó por sobre los competidores,"
+        "que usaban botellas más altas y llamativas. Después de todo, era la Nueva"
+        "York de los años 70. Había que ser diferente para llamar la atención."</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="title_activity_purchases">Purchases</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

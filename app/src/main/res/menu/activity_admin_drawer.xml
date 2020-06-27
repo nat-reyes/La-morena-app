@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item android:title="@string/accountMenu">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/account"
+                    android:icon="@drawable/ic_profile"
+                    android:iconTint="@color/colorPrimaryDark"
+                    android:title="@string/profile" />
+                <item
+                    android:id="@+id/ingresoAdmin"
+                    android:icon="@drawable/ic_repairing"
+                    android:title="@string/ingresoAdmin" />
+                <item
+                    android:id="@+id/aseguradora"
+                    android:icon="@drawable/ic_business"
+                    android:title="@string/aseguradora" />
+                <item
+                    android:id="@+id/employee"
+                    android:icon="@drawable/ic_employee"
+                    android:title="@string/empleado" />
+                <item
+                    android:id="@+id/service"
+                    android:icon="@drawable/ic_transport"
+                    android:title="@string/service" />
+
+            </group>
+
+        </menu>
+    </item>
+
+
+
+
+    <item android:title="@string/session">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/logout"
+                    android:icon="@drawable/ic_signs"
+                    android:title="@string/logout" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

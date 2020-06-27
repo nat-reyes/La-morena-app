@@ -1,0 +1,68 @@
+
+ó
+java:S1186}"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(≠èÅü
+Q	java:S125±"<This block of commented-out lines of code should be removed.(¨ﬂÔ^
+C
+java:S1481Z"(Remove this unused "fab" local variable.(£˙áé˝ˇˇˇˇ
+K
+java:S1068@"0Remove this unused "appBarLayout" private field.(ﬂﬂåÑ¯ˇˇˇˇ
+W	java:S125ò"<This block of commented-out lines of code should be removed.(∫‚çõˇˇˇˇˇ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(®îø≠ˇˇˇˇˇ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(ô’√º˛ˇˇˇˇ
+Ç
+java:S1845M"gRename field "userName" to prevent any misunderstanding/clash with field "username" defined on line 67.(º”µá˛ˇˇˇˇ
+V
+java:S1161–":Add the "@Override" annotation above this method signature(—˚ıˆ˘ˇˇˇˇ
+ò
+java:S1186µ"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÑòÆí
+Q	java:S125k"<This block of commented-out lines of code should be removed.(Å‹Ü•
+V	java:S125Y"<This block of commented-out lines of code should be removed.(íºÅ∂¸ˇˇˇˇ
+n
+java:S1450D"XRemove the "userPhoto" field and declare it as a local variable in the relevant methods.(˛éÓï
+W
+java:S1874º"ARemove this use of "FragmentStatePagerAdapter"; it is deprecated.(ëÌõ\
+G
+java:S1068M",Remove this unused "userName" private field.(º”µá˛ˇˇˇˇ
+O	java:S106™"9Replace this use of System.out or System.err by a logger.(∂à›¯
+W	java:S125Î"<This block of commented-out lines of code should be removed.(õ¢ºƒ¸ˇˇˇˇ
+R
+java:S1854Z"7Remove this useless assignment to local variable "fab".(£˙áé˝ˇˇˇˇ
+f
+java:S1128"KRemove this unused import 'com.example.lamorena.Activities.IngresoCliente'.(ÒÉ˚£˙ˇˇˇˇ
+R	java:S125Á"<This block of commented-out lines of code should be removed.(≥ø·ï
+k
+java:S1450G"URemove the "drawer" field and declare it as a local variable in the relevant methods.(ˆ¨ÔÂ
+s
+java:S1450B"XRemove the "viewPager" field and declare it as a local variable in the relevant methods.(ÂŸ¨œ˚ˇˇˇˇ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(ﬁ∆úÉ
+7	java:S131ƒ""Add a default case to this switch.(Ï˙«V
+L
+java:S1172ù"0Remove this unused method parameter "userLevel".(Åº†ã˘ˇˇˇˇ
+v
+java:S1450@"[Remove the "appBarLayout" field and declare it as a local variable in the relevant methods.(ﬂﬂåÑ¯ˇˇˇˇ
+Q	java:S125u"<This block of commented-out lines of code should be removed.(•œ◊é
+Q
+java:S1117ÿ":Rename "drawer" which hides the field declared at line 71.(Ö¸µ¯
+R	java:S125≠"<This block of commented-out lines of code should be removed.(Ÿ¿ÏΩ
+J
+java:S1144ù".Remove this unused private "setHeader" method.(Åº†ã˘ˇˇˇˇ
+?
+java:S1604Ö"(Make this anonymous inner class a lambda(Û¨≤ª
+=
+java:S1659C"'Declare "userLevel" on a separate line.(íüÌ∞
+M
+java:S11284"2Remove this unused import 'android.widget.Button'.(≤çÚû˝ˇˇˇˇ
+]
+java:S1128"GRemove this unused import 'com.example.lamorena.crud.registrarIngreso'.(–ŒŸ´
+a
+java:S1301ƒ"KReplace this "switch" statement by "if" statements to increase readability.(Ï˙«V
+a
+java:S1874ª"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ªÕ§Ÿ
+G
+java:S1144}"1Remove this unused private "habilitarMap" method.(≠èÅü
+n
+java:S1450A"XRemove the "tabLayout" field and declare it as a local variable in the relevant methods.(§◊‰ù
+C
+java:S1068I"(Remove this unused "acct" private field.(±∆…Ÿ˝ˇˇˇˇ
+Q
+java:S1117©":Rename "drawer" which hides the field declared at line 71.(Ö¸µ¯

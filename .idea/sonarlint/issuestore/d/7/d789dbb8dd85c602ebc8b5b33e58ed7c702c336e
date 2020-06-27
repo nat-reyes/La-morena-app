@@ -1,0 +1,55 @@
+
+R
+java:S1117V"<Rename "apellido" which hides the field declared at line 31.(«ÇŒÿ
+I
+java:S1144r"3Remove this unused private "showDialogWait" method.(Œâú›
+F
+java:S1068'"+Remove this unused "usuario" private field.(Åà¬“úÿÿÿÿ
+N
+java:S1117U"8Rename "name" which hides the field declared at line 31.(£š‡â
+?
+java:S1068!")Remove this unused "queue" private field.(®¤œé
+P
+java:S1117R":Rename "cardId" which hides the field declared at line 31.(ÍÃœÇ
+m
+java:S1450 "RRemove the "url" field and declare it as a local variable in the relevant methods.(óÊÉÕùÿÿÿÿ
+O
+java:S1128
+"9Remove this unused import 'androidx.annotation.Nullable'.(¾Èêš
+A
+java:S1659"&Declare "apellido" on a separate line.(³íÝÇþÿÿÿÿ
+<
+java:S1659"!Declare "rol" on a separate line.(³íÝÇþÿÿÿÿ
+q
+java:S1450'"VRemove the "usuario" field and declare it as a local variable in the relevant methods.(Åà¬“úÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(»¤ôã
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(øýâûÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦™¹Ýüÿÿÿÿ
+>
+java:S1659"#Declare "email" on a separate line.(³íÝÇþÿÿÿÿ
+M
+java:S1068%"2Remove this unused "progressDialog" private field.(·á…Çùÿÿÿÿ
+V	java:S125\"<This block of commented-out lines of code should be removed.(÷úìÐþÿÿÿÿ
+V	java:S125k"<This block of commented-out lines of code should be removed.(å®¼üÿÿÿÿ
+T
+java:S1128"9Remove this unused import 'android.os.PersistableBundle'.(Ñƒ¨’øÿÿÿÿ
+=
+java:S1659""Declare "name" on a separate line.(³íÝÇþÿÿÿÿ
+B
+java:S1068 "'Remove this unused "url" private field.(óÊÉÕùÿÿÿÿ
+k	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÝ¬ûÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'android.widget.Button'.(²òžýÿÿÿÿ
+A
+java:S1659"&Declare "telefono" on a separate line.(³íÝÇþÿÿÿÿ
+x
+java:S1450%"]Remove the "progressDialog" field and declare it as a local variable in the relevant methods.(·á…Çùÿÿÿÿ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(®•ë‘ýÿÿÿÿ
+R
+java:S1117W"<Rename "telefono" which hides the field declared at line 31.(âé—Ë
+F
+java:S1172O"+Remove this unused method parameter "view".(µõÒöÿÿÿÿÿ
+O
+java:S1117S"9Rename "email" which hides the field declared at line 31.(‡ò¶â
+M
+java:S1117T"7Rename "rol" which hides the field declared at line 31.(‘´ä§

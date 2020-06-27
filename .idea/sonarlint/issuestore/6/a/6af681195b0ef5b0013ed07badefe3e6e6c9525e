@@ -1,0 +1,66 @@
+
+9
+java:S1659/"#Declare "email" on a separate line.(¿¡¢½
+^
+java:S1117`"CRename "confirmPassword" which hides the field declared at line 47.(ÔÏŠëøÿÿÿÿ
+b
+java:S1192P"GDefine a constant instead of duplicating this literal "123123" 3 times.(®¹÷¾şÿÿÿÿ
+P
+java:S1117]":Rename "cardId" which hides the field declared at line 47.(ÍÃœÇ
+F
+java:S1172["+Remove this unused method parameter "view".(×™Âêúÿÿÿÿ
+O
+java:S1117^"9Rename "email" which hides the field declared at line 47.(‡ò¶â
+G
+java:S1172Ÿ"+Remove this unused method parameter "view".(¯Äƒ¤şÿÿÿÿ
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(û¦¢ƒşÿÿÿÿ
+D
+java:S1481d")Remove this unused "user" local variable.(©Í”äıÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(àù¶çùÿÿÿÿ
+R
+java:S1117b"<Rename "apellido" which hides the field declared at line 47.(«ÇŒÿ
+<
+java:S1659/"&Declare "apellido" on a separate line.(¿¡¢½
+J
+java:S1066f"/Merge this if statement with the enclosing one.(È¤†‡ıÿÿÿÿ
+I
+java:S1135«"2Complete the task associated to this TODO comment.(…ïœ†
+D
+java:S1604"(Make this anonymous inner class a lambda(¥íîŸÿÿÿÿÿ
+I
+java:S1135Æ"2Complete the task associated to this TODO comment.(…ïœ†
+V	java:S125q"<This block of commented-out lines of code should be removed.(å®¼üÿÿÿÿ
+8
+java:S1659/""Declare "name" on a separate line.(¿¡¢½
+<
+java:S1659/"&Declare "password" on a separate line.(¿¡¢½
+R
+java:S1117_"<Rename "password" which hides the field declared at line 47.(œ—”
+J
+java:S1066g"/Merge this if statement with the enclosing one.(ŒÒÕúÿÿÿÿ
+C
+java:S1172y"(Remove this unused method parameter "v".(¨ûæ¡ûÿÿÿÿ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ
+R
+java:S1117c"<Rename "telefono" which hides the field declared at line 47.(âé—Ë
+S
+java:S1854d"8Remove this useless assignment to local variable "user".(©Í”äıÿÿÿÿ
+^
+java:S1192²"GDefine a constant instead of duplicating this literal "Action" 5 times.( ğ“ÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Ò
+C
+java:S1659/"-Declare "confirmPassword" on a separate line.(¿¡¢½
+N
+java:S1117a"8Rename "name" which hides the field declared at line 47.(£š‡â
+>
+java:S1604—"(Make this anonymous inner class a lambda(–§º
+<
+java:S1659/"&Declare "telefono" on a separate line.(¿¡¢½
+?
+java:S1604ˆ"(Make this anonymous inner class a lambda(ÑÂğ
+I
+java:S1135Ä"2Complete the task associated to this TODO comment.(…ïœ†
+]	java:S125K"<This block of commented-out lines of code should be removed.(”ˆ¡Âşÿÿÿÿ8—Çöå®.
+D	java:S108¨")Either remove or fill this block of code.(™²¨©ûÿÿÿÿ
+m
+java:S3776y"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(¨ûæ¡ûÿÿÿÿ

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124633834602",
+    "firebase_url": "https://la-morena-bfbec.firebaseio.com",
+    "project_id": "la-morena-bfbec",
+    "storage_bucket": "la-morena-bfbec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124633834602:android:48940dbf64c488ca221613",
+        "android_client_info": {
+          "package_name": "com.example.lamorena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124633834602-tcl5v9r4i8nal39jhpl3u6a53fq580kv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lamorena",
+            "certificate_hash": "b0fbdfe990a1f9ee3a2d2876f057c8d94419a1ab"
+          }
+        },
+        {
+          "client_id": "124633834602-8j8tqv6k61asnj5n23hm5ifj66is0h45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeA8oqQIL-9Bm0Fr_HMRUaSICQsEZTZrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124633834602-8j8tqv6k61asnj5n23hm5ifj66is0h45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

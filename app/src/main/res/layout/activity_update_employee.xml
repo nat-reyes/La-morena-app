@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:boxBackgroundColor="@color/secondaryTextColor"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="60dp">
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/input_consulta_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:hint="@string/searchEmployee"
+            android:textColorHighlight="@color/black"
+            android:shadowColor="@color/black"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_upd_select"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        style="@style/SmallComponent"
+        app:cornerRadius="10dp"
+        android:elevation="15dp"
+        android:backgroundTint="@color/secondaryColor"
+        android:textColor="@color/secondaryTextColor"
+        android:layout_marginBottom="24dp"
+        android:onClick="searchEmployee"
+        android:text="@string/selectEmpployee"/>
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="24dp"
+            android:paddingRight="24dp"
+            android:layout_marginTop="170dp">
+
+            <LinearLayout
+                android:layout_marginTop="50dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/cv_one_login_employee"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:elevation="10dp"
+                        app:cardBackgroundColor="#fcfcfc"
+                        app:cardCornerRadius="10dp"
+                        app:cardElevation="10dp"
+                        app:cardPreventCornerOverlap="false"
+                        app:cardUseCompatPadding="true">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginTop="30dp"
+                            android:layout_marginBottom="30dp"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:orientation="vertical">
+                            <com.google.android.material.textfield.TextInputLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                                app:boxBackgroundColor="@color/secondaryTextColor"
+                                android:layout_marginLeft="5dp"
+                                android:layout_marginRight="5dp"
+                                android:layout_marginTop="8dp">
+                                <com.google.android.material.textfield.TextInputEditText
+                                    android:id="@+id/input_cardId_employee"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:inputType="number"
+                                    android:hint="@string/idCard" />
+                            </com.google.android.material.textfield.TextInputLayout>
+
+                            <com.google.android.material.textfield.TextInputLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                                app:boxBackgroundColor="@color/secondaryTextColor"
+                                android:layout_marginLeft="5dp"
+                                android:layout_marginRight="5dp"
+                                android:layout_marginTop="8dp">
+                                <com.google.android.material.textfield.TextInputEditText
+                                    android:id="@+id/input_firstName_employee"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:inputType="textPersonName"
+                                    android:hint="@string/firstName" />
+                            </com.google.android.material.textfield.TextInputLayout>
+                            <!--  Email Label -->
+                            <com.google.android.material.textfield.TextInputLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                                app:boxBackgroundColor="@color/secondaryTextColor"
+                                android:layout_marginLeft="5dp"
+                                android:layout_marginRight="5dp"
+                                android:layout_marginTop="8dp">
+                                <com.google.android.material.textfield.TextInputEditText
+                                    android:id="@+id/input_apellido_employee"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:inputType="textEmailAddress"
+                                    android:hint="Apellido" />
+                            </com.google.android.material.textfield.TextInputLayout>
+                            <!--  Email Label -->
+                            <com.google.android.material.textfield.TextInputLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                                app:boxBackgroundColor="@color/secondaryTextColor"
+                                android:layout_marginLeft="5dp"
+                                android:layout_marginRight="5dp"
+                                android:layout_marginTop="8dp">
+                                <com.google.android.material.textfield.TextInputEditText
+                                    android:id="@+id/input_cel_employee"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:inputType="textEmailAddress"
+                                    android:hint="Telefono" />
+                            </com.google.android.material.textfield.TextInputLayout>
+                            <!--  Email Label -->
+                            <com.google.android.material.textfield.TextInputLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                                app:boxBackgroundColor="@color/secondaryTextColor"
+                                android:layout_marginLeft="5dp"
+                                android:layout_marginRight="5dp"
+                                android:layout_marginTop="8dp">
+                                <com.google.android.material.textfield.TextInputEditText
+                                    android:id="@+id/input_email_employee"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:inputType="textEmailAddress"
+                                    android:hint="@string/email" />
+                            </com.google.android.material.textfield.TextInputLayout>
+
+                            <com.google.android.material.textfield.TextInputLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                                app:boxBackgroundColor="@color/secondaryTextColor"
+                                android:layout_marginLeft="5dp"
+                                android:layout_marginRight="5dp"
+                                android:layout_marginTop="8dp">
+                                <com.google.android.material.textfield.TextInputEditText
+                                    android:id="@+id/input_cargo_employee"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:inputType="textEmailAddress"
+                                    android:hint="@string/rol" />
+                            </com.google.android.material.textfield.TextInputLayout>
+
+
+
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_login2"
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:layout_below="@id/cv_one_login"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center"
+                android:layout_marginTop="-35dp"
+                style="@style/SmallComponent"
+                app:cornerRadius="10dp"
+                android:elevation="15dp"
+                android:backgroundTint="@color/secondaryColor"
+                android:textColor="@color/secondaryTextColor"
+                android:layout_marginBottom="24dp"
+                android:onClick="createEmployee"
+                android:text="@string/update"/>
+
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+

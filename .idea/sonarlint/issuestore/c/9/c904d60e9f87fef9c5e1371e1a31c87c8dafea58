@@ -1,0 +1,124 @@
+
+D
+java:S1604Õ"(Make this anonymous inner class a lambda(ğ±£šÿÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(ÇÅ¸¼ÿÿÿÿÿ
+D
+java:S1481¶"(Remove this unused "num" local variable.(†¬›Äûÿÿÿÿ
+A
+java:S16590"&Declare "spinner3" on a separate line.(¾Çæïıÿÿÿÿ
+@
+java:S1659="%Declare "mestado" on a separate line.(š¡Ş£üÿÿÿÿ
+F
+java:S1068="+Remove this unused "mestado" private field.(š¡Ş£üÿÿÿÿ
+p
+java:S1450="URemove the "mplaca" field and declare it as a local variable in the relevant methods.(š¡Ş£üÿÿÿÿ
+^
+java:S1192¾"GDefine a constant instead of duplicating this literal "Nombre" 3 times.(”ÑÃô
+?
+java:S1604ñ"(Make this anonymous inner class a lambda(€½€
+i
+java:S1192ì"SDefine a constant instead of duplicating this literal "Error getting doc." 3 times.(’Ü÷
+Q
+java:S1117‹":Rename "cedula" which hides the field declared at line 58.(–ªËÇ
+l
+java:S1450>"VRemove the "vestado" field and declare it as a local variable in the relevant methods.(íïÏš
+?
+java:S1604ú"(Make this anonymous inner class a lambda(Š¹¿•
+q
+java:S1450="VRemove the "mcedula" field and declare it as a local variable in the relevant methods.(š¡Ş£üÿÿÿÿ
+>
+java:S1659="#Declare "mhora" on a separate line.(š¡Ş£üÿÿÿÿ
+i
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(îñã²
+n
+java:S1450>"XRemove the "vservicio" field and declare it as a local variable in the relevant methods.(íïÏš
+D
+java:S1604¯"(Make this anonymous inner class a lambda(ğ±£šÿÿÿÿÿ
+k
+java:S1450>"URemove the "vtotal" field and declare it as a local variable in the relevant methods.(íïÏš
+=
+java:S1659>"'Declare "vservicio" on a separate line.(íïÏš
+@
+java:S1905¿")Remove this unnecessary cast to "String".(¬ä¬¼
+i
+java:S1192ã"RDefine a constant instead of duplicating this literal "Document snapshot" 3 times.(ãÊİ¾
+_
+java:S1192ì"IDefine a constant instead of duplicating this literal "Cuentas:" 3 times.(’Ü÷
+h
+java:S1192æ"QDefine a constant instead of duplicating this literal "No such document" 3 times.(ıÿçÒ
+A
+java:S1659;"+Declare "selectService" on a separate line.(íñÎØ
+>
+java:S1068/")Remove this unused "mfire" private field.(¾ëšS
+W	java:S125š"<This block of commented-out lines of code should be removed.(÷úìĞşÿÿÿÿ
+R
+java:S2696˜"6Make the enclosing method "static" or remove this set.(¯ùÀıÿÿÿÿ
+?
+java:S1604¨"(Make this anonymous inner class a lambda(Š¹¿•
+P
+java:S2864½"4Iterate over the "entrySet" instead of the "keySet".(Ğˆšùûÿÿÿÿ
+@
+java:S1659="%Declare "mcedula" on a separate line.(š¡Ş£üÿÿÿÿ
+?
+java:S1659:"$Declare "cedula" on a separate line.(èıÿÿÿÿ
+?
+java:S1659="$Declare "mtotal" on a separate line.(š¡Ş£üÿÿÿÿ
+s
+java:S1450="XRemove the "mservicio" field and declare it as a local variable in the relevant methods.(š¡Ş£üÿÿÿÿ
+p
+java:S1450="URemove the "mtotal" field and declare it as a local variable in the relevant methods.(š¡Ş£üÿÿÿÿ
+?
+java:S1604Î"(Make this anonymous inner class a lambda(Š¹¿•
+D
+java:S1604ü"(Make this anonymous inner class a lambda(Ğ…üîÿÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(ğ±£šÿÿÿÿÿ
+h
+java:S1192è"LDefine a constant instead of duplicating this literal "Selecciono " 4 times.(Ò•Ÿÿÿÿÿÿ
+:
+java:S1659>"$Declare "vtotal" on a separate line.(íïÏš
+n
+java:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Ò‘ÉÄùÿÿÿÿ
+|
+java:S1488µ"eImmediately return this expression instead of assigning it to the temporary variable "formattedDate".(´öºÚ
+?
+java:S1604ä"(Make this anonymous inner class a lambda(Ùµ’
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(ºŸâıÿÿÿÿ
+k
+java:S1450>"URemove the "vplaca" field and declare it as a local variable in the relevant methods.(íïÏš
+\
+java:S1128 "ARemove this unused import 'com.google.protobuf.DescriptorProtos'.(§şıÖúÿÿÿÿ
+A
+java:S16590"&Declare "spinner2" on a separate line.(¾Çæïıÿÿÿÿ
+B
+java:S1659="'Declare "mservicio" on a separate line.(š¡Ş£üÿÿÿÿ
+l	java:S1168"XRename this field "btn_registrar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ö´9
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(»¤ôã
+g	java:S101,"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ùÿ÷¢øÿÿÿÿ
+n
+java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(‹ó‚Âúÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(¬†÷¦
+A
+java:S14449",Make this "public static estado" field final(¶ÍÍ
+z
+java:S14506"_Remove the "estadosservicios" field and declare it as a local variable in the relevant methods.(ÄºŸíúÿÿÿÿ
+o
+java:S1450="TRemove the "mhora" field and declare it as a local variable in the relevant methods.(š¡Ş£üÿÿÿÿ
+T	java:S106ß"9Replace this use of System.out or System.err by a logger.(½ßÖûÿÿÿÿ
+p
+java:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(†©İ
+D
+java:S1172œ"(Remove this unused method parameter "v".(ë“ƒàşÿÿÿÿ
+@
+java:S16590"%Declare "estados" on a separate line.(¾Çæïıÿÿÿÿ
+3
+java:S1643Ä"Use a StringBuilder instead.(½ñ²Õ
+B
+java:S1659;",Declare "selectEmpleado" on a separate line.(íñÎØ
+@
+java:S1659;"*Declare "selectEstado" on a separate line.(íñÎØ
+g
+java:S11049"RMake estado a static final constant or non-public and provide accessors if needed.(¶ÍÍ
+;
+java:S1659>"%Declare "vestado" on a separate line.(íïÏš
